@@ -116,6 +116,7 @@ class TestAllMethods(unittest.TestCase):
 		
 		#adding comment
 		#adding comment
+		#adding comment
 def main():
 	unittest.main()
 
